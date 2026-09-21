@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa",
+        "categoria": "Comida rápida",
+        "precio": 3.5,
+        "cantidad": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza",
+        "categoria": "Comida rápida",
+        "precio": 5.0,
+        "cantidad": 8
+    },
+    {
+        "id": 3,
+        "nombre": "Pollo BBQ(por presa)",
+        "categoria": "Comida rapida",
+        "precio": 0.6,
+        "cantidad": 3
+    }
+]
