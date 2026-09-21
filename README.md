@@ -1,6 +1,6 @@
-# 🍽️ restaurante_app – Semana 14
+# Restaurante_app – Semana 14
 
-## 📚 Información del proyecto
+## Información del proyecto
 
 - **Estudiante:** Johana Lorena Castro Alban
 - **Asignatura:** Programación Orientada a Objetos
@@ -12,7 +12,7 @@
 
 ---
 
-## 📝 Descripción del proyecto
+## Descripción del proyecto
 
 El proyecto restaurante_app es una aplicación desarrollada en Python
 que permite gestionar información de un restaurante mediante una
@@ -29,7 +29,7 @@ de datos JSON.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar los fundamentos de componentes y contenedores de Tkinter
 para mejorar la interfaz gráfica de restaurante_app, permitiendo
@@ -41,7 +41,7 @@ entre la interfaz y la lógica de negocio.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3
 - Tkinter
@@ -53,7 +53,7 @@ entre la interfaz y la lógica de negocio.
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 restaurante_app/
@@ -86,7 +86,7 @@ restaurante_app/
 
 ---
 
-## 🖥️ Interfaz gráfica
+## Interfaz gráfica
 
 La aplicación utiliza Tkinter y ttk para construir una interfaz
 gráfica organizada mediante componentes y contenedores.
@@ -115,7 +115,7 @@ y áreas de información de manera clara y ordenada.
 
 ---
 
-## 🔐 Inicio de sesión
+## Inicio de sesión
 
 La aplicación mantiene un inicio de sesión mediante una interfaz
 gráfica.
@@ -129,7 +129,7 @@ acceder a la ventana principal de la aplicación.
 
 ---
 
-## 👥 Gestión de usuarios
+## Gestión de usuarios
 
 La aplicación permite consultar la información de los usuarios
 registrados en el sistema.
@@ -139,7 +139,7 @@ los servicios correspondientes para acceder a los datos.
 
 ---
 
-## 🍔 Gestión de productos
+## Gestión de productos
 
 La sección de productos permite realizar operaciones mediante
 formularios, botones y componentes gráficos.
@@ -160,7 +160,7 @@ de `RestauranteServicio`.
 
 ---
 
-## 💾 Persistencia de datos
+## Persistencia de datos
 
 El proyecto utiliza archivos JSON para conservar la información
 de los productos y usuarios.
@@ -180,7 +180,7 @@ los archivos JSON desde la interfaz gráfica.
 
 ---
 
-## 🏗️ Arquitectura del proyecto
+## Arquitectura del proyecto
 
 El proyecto mantiene una organización modular:
 
@@ -196,7 +196,7 @@ y facilita su mantenimiento y ampliación.
 
 ---
 
-## ▶️ Instalación y ejecución
+## Instalación y ejecución
 
 ### 1. Clonar el repositorio
 
@@ -239,7 +239,7 @@ realizar las siguientes acciones:
 
 ---
 
-## 📌 Conclusión
+## Conclusión
 
 El desarrollo de la Semana 14 permite fortalecer los conocimientos
 sobre el uso de componentes y contenedores en Tkinter.
@@ -254,7 +254,7 @@ y la lógica de negocio.
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Johana Lorena Castro Alban**
 
